@@ -1,4 +1,4 @@
-Data Structures & Algorithms Lab
+**Data Structures & Algorithms Lab**
 
 
 1)Polynomial Addition
