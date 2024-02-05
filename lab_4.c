@@ -2,10 +2,6 @@ Experiment no.4
 Queue
 31-10-2022
 
-Jithin K A
-S3 CS
-Roll no: 25
-
 Write a C program to implement a queue using arrays with the operations
 	i) Insertion of element at rear of queue
 	ii) Deletion of element at front of queue
